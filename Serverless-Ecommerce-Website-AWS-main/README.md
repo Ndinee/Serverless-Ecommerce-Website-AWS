@@ -2,10 +2,6 @@
 
 ## Project Name: Serverless Web Application on AWS
 
-### Documentation Presentation Slides for Better Unerstanding : 
-Documentation : https://drive.google.com/file/d/15CkxTVgObDJW20Pc0xcHzA-CQmTyJial/view?usp=drive_link                                                                                        
-     Slides        : https://docs.google.com/presentation/d/1uli3LJ2zg3rSJthX2EMBAYBy-V4lvhaq/edit?usp=sharing&ouid=100258873129509465941&rtpof=true&sd=true
-
 ### Project Description:
 
 In this project, you will build a serverless web application using AWS Lambda, DynamoDB, and S3. The application will allow users to create, read, update, and delete (CRUD) items from a DynamoDB table.
